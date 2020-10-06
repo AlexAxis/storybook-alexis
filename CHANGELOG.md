@@ -1,7 +1,5 @@
-# v0.1.0 (Tue Sep 03 2019)
-
-- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
+# v0.1.1 (Tue Oct 06 2020)
 
 #### Authors: 1
 
-- Tom Coleman ([@tmeasday](https://github.com/tmeasday))
+-   Alexis Sousa (alexis-sousa@hotmail.com)
