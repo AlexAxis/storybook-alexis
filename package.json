@@ -1,7 +1,7 @@
 {
     "name": "storybook-alexis",
     "version": "0.1.1",
-    "private": true,
+    "private": false,
     "description": "Storybook - Design system",
     "main": "dist/index.js",
     "repository": "https://github.com/AlexAxis/storybook-alexis",
